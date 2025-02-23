@@ -1,0 +1,2 @@
+etcd: kine
+apiserver: standalone-api-server -api-cert-file localhost/cert.pem -api-key-file localhost/key.pem -token-auth-file users.csv
